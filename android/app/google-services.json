@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "669462071747",
+    "project_id": "pdf-text-8ac66",
+    "storage_bucket": "pdf-text-8ac66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669462071747:android:464fefe414d36532e81576",
+        "android_client_info": {
+          "package_name": "dev.aluc.pdf_text_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669462071747-gjdiquujuds6lf5ihgicvel7d18v4gau.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.aluc.pdf_text_example",
+            "certificate_hash": "67313b2232e07d3785d4c6fbf3c0ceeb1e2672b4"
+          }
+        },
+        {
+          "client_id": "669462071747-639mm5r8qu3s5qib1dmfp7e2fmomo8nr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClmPHwNvLdj-VQNGw1nGOrSnrxZlNTFV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669462071747-639mm5r8qu3s5qib1dmfp7e2fmomo8nr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
